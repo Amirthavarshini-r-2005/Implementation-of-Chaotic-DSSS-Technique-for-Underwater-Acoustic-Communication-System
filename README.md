@@ -33,18 +33,19 @@ This repository contains the MATLAB implementation of a *Chaotic Direct Sequence
 ## Receiver
 ![WhatsApp Image 2025-04-05 at 10 40 52_aa9038ca](https://github.com/user-attachments/assets/ef06133e-7556-419f-908e-c056cf658e64)
 
-## Simulation Ressults
-Transmitter
+## Simulation Results
+
+## Transmitter
 ![WhatsApp Image 2025-04-05 at 10 41 39_196caaed](https://github.com/user-attachments/assets/a18aa9ad-d41f-42a0-848f-9ad7974b9b77)
 
-Environmental factors
+## Environmental factors
 ![WhatsApp Image 2025-04-05 at 10 42 23_61d507ce](https://github.com/user-attachments/assets/ffcffede-69ff-49e1-93a5-e06f074e9ca2)
 
-Receiver
+## Receiver
 ![WhatsApp Image 2025-04-05 at 10 43 00_ba06c395](https://github.com/user-attachments/assets/c24e9875-3b3c-4467-8a13-6e675344e0fc)
 ![WhatsApp Image 2025-04-05 at 10 43 16_77c075ee](https://github.com/user-attachments/assets/a303bcc8-c812-4905-b07c-310d858278bc)
 
-Desired Output
+## Desired Output
 ![WhatsApp Image 2025-04-05 at 10 43 28_1fa955bb](https://github.com/user-attachments/assets/b796fdea-c2d4-4d80-8890-b46e34a8745d)
 
 
